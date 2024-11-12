@@ -243,7 +243,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: goldenrod;}
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background:linear-gradient(rgba(26, 25, 25, 0.849),rgba(32, 32, 32, 0.842)), url(../images/welcome-hero/hero_1.jpg)no-repeat;
+    background:linear-gradient(rgba(31, 30, 30, 0.336),rgba(32, 32, 32, 0.459)), url(../images/welcome-hero/hero_1.jpg)no-repeat;
     background-position:center;
     background-size:cover;
     text-align: center;
