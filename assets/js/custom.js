@@ -2,8 +2,8 @@ $(document).ready(function(){
 	"use strict";
     
         /*==================================
-* Author        : "ThemeSine"
-* Template Name : Listrace directory HTML Template
+* Author        : "Liyab"
+* Template Name : Manis travel consult
 * Version       : 1.0
 ==================================== */
 
